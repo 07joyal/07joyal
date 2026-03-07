@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Joyal 👋
 
-<!--
-**07joyal/07joyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First year student  
+💻 Currently learning C++ and Data Structures  
+🚀 Interested in Open Source  
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Problem Solving
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures and Algorithms
+- Competitive Programming
+
+## Goals
+- Practice DSA regularly
+- Strengthen my C++ fundamentals
+- Build a strong GitHub profile
