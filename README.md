@@ -1,19 +1,20 @@
-# Hi, I'm Joyal 👋
+Hi, I'm Joyal 👋
 
-🎓 First year student  
-💻 Currently learning C++ and Data Structures  
-🚀 Interested in Open Source  
+🎓 First-year cse student
+💻 Learning C++ and Data Structures
 
-## Skills
-- C++
-- Problem Solving
-- Git & GitHub
+⚙️ Tech
 
-## Currently Learning
-- Data Structures and Algorithms
-- Competitive Programming
+C++
 
-## Goals
-- Practice DSA regularly
-- Strengthen my C++ fundamentals
-- Build a strong GitHub profile
+DSA
+
+Git & GitHub
+
+📈 Current Focus
+
+Practicing LeetCode problems
+
+Improving C++ fundamentals
+
+Consistency in problem solving
