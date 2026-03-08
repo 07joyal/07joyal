@@ -1,4 +1,5 @@
-👋Hi, I'm Joyalpreet Kaur.\
-👀I'm interested in building a strong foundation in C++ and dsa.\
-🌱I'm interested in Open Source contribuiton.\
-🎓Currently learning dsa in c++ and solving leetcode problems.
+### 👋 Hi, I’m Joyalpreet Kaur
+🔭 I’m currently learning C++ & DSA  
+🌱 I’m solving problems on LeetCode  
+👯 I’m open to collaboration on beginner open‑source projects  
+📫 How to reach me: joyyy0016@gmail.com
