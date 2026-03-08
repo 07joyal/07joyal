@@ -1,21 +1,4 @@
-Hi, I'm Joyal 👋
-🎓 About Me
-
-First-year cse student exploring programming . 
-Building a strong foundation in C++ and Data Structures.
-
-💻 Tech Stack
-
-C++
-
-Data Structures & Algorithms
-
-Git & GitHub
-
-📚 Currently Learning
-
-DSA
-
-Competitive Programming
-
-Problem Solving on LeetCode
+👋Hi, I'm Joyalpreet Kaur.
+👀I'm interested in building a strong foundation in C++ and dsa.
+🌱I'm interested in Open Source contribuiton
+🎓Currently learning dsa in c++ and solving leetcode problems.
