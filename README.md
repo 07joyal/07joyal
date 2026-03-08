@@ -1,20 +1,16 @@
-Hi, I'm Joyal 👋
+#Hi, I'm Joyal 👋
 
 🎓 First-year cse student
 💻 Learning C++ and Data Structures
 
-⚙️ Tech
+##⚙️ Tech
 
-C++
+ C++
+ DSA
+ Git & GitHub
 
-DSA
+##📈 Current Focus
 
-Git & GitHub
-
-📈 Current Focus
-
-Practicing LeetCode problems
-
-Improving C++ fundamentals
-
-Consistency in problem solving
+ Practicing LeetCode problems
+ Improving C++ fundamentals
+ Consistency in problem solving
