@@ -10,8 +10,7 @@
 
 
 ## Badges 
-🤖 https://www.credly.com/badges/f444979c-ee36-4bfe-b47d-5871b13204c6/public_url
-
+🤖 [Microsoft Azure AI Fundamentals (AI-900)]- (microsoft-certified-azure-ai-fundamentals.png)
 
 ## 📈 GitHub Streak
 
