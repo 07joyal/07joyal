@@ -10,7 +10,7 @@
 
 
 ## Badges 
-🤖 [Microsoft Azure AI Fundamentals (AI-900)]- (microsoft-certified-azure-ai-fundamentals.png)
+🤖 [Microsoft Azure AI Fundamentals (AI-900)](microsoft-certified-azure-ai-fundamentals.png)
 
 ## 📈 GitHub Streak
 
