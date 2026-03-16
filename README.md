@@ -6,7 +6,7 @@
 
 
 ## Certifications
-🤖 Microsoft Azure AI Fundamentals (AI-900) -
+🤖 Microsoft Azure AI Fundamentals (AI-900) 
 
 
 ## Badges 
