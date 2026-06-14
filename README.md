@@ -7,6 +7,7 @@
 
 ## Certifications
 🤖 Microsoft Azure AI Fundamentals (AI-900) 
+🤖 AZ-900: Microsoft Azure Fundamentals
 
 
 ## Badges 
@@ -15,7 +16,7 @@
 </a>
 
 <a href="https://www.credly.com/earner/earned/share/aeea8020-b24a-44e1-bcb1-0defa156ee72">
-    <img src="YOUR_NEW_BADGE_IMAGE.png" width="120">
+    <img src="AZ-900_Microsoft_Azure_Fundamentals.png" width="120">
 </a>
 
 
