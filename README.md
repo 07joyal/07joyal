@@ -11,9 +11,12 @@
 
 ## Badges 
 <a href="https://www.credly.com/badges/f444979c-ee36-4bfe-b47d-5871b13204c6/public_url">
-  <img src="microsoft-certified-azure-ai-fundamentals.png" width="120">
+    <img src="microsoft-certified-azure-ai-fundamentals.png" width="120">
 </a>
-</p>
+
+<a href="https://www.credly.com/earner/earned/share/aeea8020-b24a-44e1-bcb1-0defa156ee72">
+    <img src="YOUR_NEW_BADGE_IMAGE.png" width="120">
+</a>
 
 
 ## 📈 GitHub Streak
